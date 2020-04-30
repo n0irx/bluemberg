@@ -1,4 +1,4 @@
-baseURL = "nataprawiraf.netlify.app"
+baseURL = "https://nataprawiraf.netlify.app/"
 title = "nata"
 googleAnalytics = "UA-123-456-789"
 theme = "github-style"
