@@ -10,6 +10,9 @@
     <title>{{ if .IsHome }}{{ else }}{{ .Title }} - {{ end }}{{ .Site.Title }}</title>
 
     <link rel="icon" type="image/x-icon" class="js-site-favicon" href="{{ "images/favicon.ico" | absURL }}">
+
+    <link rel="stylesheet" type="text/css" href="/syntax.css">
+
     <meta name="theme-color" content="#1e2327">
     {{ template "_internal/google_analytics_async.html" . }}
 </head>
