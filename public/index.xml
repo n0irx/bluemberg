@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nata</title>
+    <link>https://nataprawiraf.me/</link>
+    <description>Recent content on nata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>© 2020. nata. theme by &lt;a href=&#34;https://github.com/MeiK2333/github-style&#34;&gt;&lt;span&gt;github-style&lt;/span&gt;&lt;/a&gt;</copyright>
+    <lastBuildDate>Thu, 30 Apr 2020 05:11:58 +0700</lastBuildDate>
+    
+	<atom:link href="https://nataprawiraf.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://nataprawiraf.me/about/</link>
+      <pubDate>Thu, 30 Apr 2020 05:11:58 +0700</pubDate>
+      
+      <guid>https://nataprawiraf.me/about/</guid>
+      <description>About Me 🍓 Hello my name is Nata, I love strawberry and cats.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://nataprawiraf.me/resume/</link>
+      <pubDate>Thu, 30 Apr 2020 05:11:58 +0700</pubDate>
+      
+      <guid>https://nataprawiraf.me/resume/</guid>
+      <description>Work Experiences 💼 • Security Engineer &amp;amp; DevOps Engineer at Pusat Ilmu Komputer (Pusilkom) September 2019 - February 2019
+ Pusat Ilmu Komputer UI atau yang lazim disebut Pusilkom UI telah berdiri sejak tahun 1972. Selama lebih dari 40 tahun, Pusilkom UI telah banyak berkiprah dalam pengembangan dunia teknologi informasi, baik di dunia akademis maupun industri/bisnis.
+ Job Description  penetration testing reporting security issue security conduct research in security of a platform create provisioning script for server  tech stacks: Ansible, BurpSuite, ZAP</description>
+    </item>
+    
+    <item>
+      <title>go &#43; docker &#43; heroku</title>
+      <link>https://nataprawiraf.me/posts/go-docker-heroku/</link>
+      <pubDate>Sat, 07 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://nataprawiraf.me/posts/go-docker-heroku/</guid>
+      <description>&lt;p&gt;This tutorial will guide you how to write go, dockerize it, deploy it to heroku.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
