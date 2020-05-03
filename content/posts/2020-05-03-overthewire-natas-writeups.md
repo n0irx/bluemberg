@@ -3,7 +3,7 @@ layout: blog
 title: "OverTheWire: Natas Writeups"
 date: 2020-05-03T16:01:13.340Z
 ---
-# OverTheWire: Natas
+In this post I will share my writeup in OverTheWire war-games, this writeup will be updated!
 
 <!--more-->
 
