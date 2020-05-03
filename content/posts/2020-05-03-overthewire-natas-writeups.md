@@ -7,10 +7,13 @@ In this post I will share my writeup in OverTheWire war-games, this writeup will
 
 <!--more-->
 
+
+
 ## natas0
 
-> http://natas0.natas.labs.overthewire.org/\
 > You can find the password for the next level on this page.  
+>
+> http://natas0.natas.labs.overthewire.org/
 
 ### Solve
 
@@ -22,7 +25,8 @@ inspect element or view source code
 
 >  natas1: gtVrDuiDfck831PqWsLEZy5gyDz1clto  
 
-## natas1
+## \
+natas1
 
 > http://natas1.natas.labs.overthewire.org/\
 > You can find the password for the next level on this page, but rightclicking has been blocked!  
@@ -35,7 +39,8 @@ inspect element or view source code
 
 > natas2: ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi  
 
-## natas2
+## \
+natas2
 
 > http://natas2.natas.labs.overthewire.org/  
 
@@ -67,7 +72,8 @@ mallory:9urtcpzBmH
 
 > natas3: sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14  
 
-## natas3
+## \
+natas3
 
 > No more information leaks!! Not even Google will find it this time...\
 > http://natas3.natas.labs.overthewire.org/  
@@ -85,7 +91,8 @@ check `http://natas3.natas.labs.overthewire.org/s3cr3t/` , it will tell you the 
 
 > natas4: Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ  
 
-## natas4
+## \
+natas4
 
 > Access disallowed. You are visiting from "" while authorized users should come only from http://natas5.natas.labs.overthewire.org/  
 
@@ -110,7 +117,8 @@ curl -u natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ http://natas4.natas.labs.overthe
 
 > natas5: iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq  
 
-## natas5
+## \
+natas5
 
 > Access disallowed. You are not logged in\
 > http://natas5.natas.labs.overthewire.org/  
@@ -125,7 +133,8 @@ Access granted. The password for natas6 is aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
 
 > natas6: aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1  
 
-## natas6
+## \
+natas6
 
 > http://natas5.natas.labs.overthewire.org/  
 
