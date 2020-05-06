@@ -7,13 +7,13 @@ In this post I will share my writeup in OverTheWire war-games, this writeup will
 
 <!--more-->
 
-# `natas0`
+## `natas0`
 
 > You can find the password for the next level on this page.  
 >
-> http://natas0.natas.labs.overthewire.org/
+> http://natas0.natas.labs.overthewire.org/  
 
-### Solve
+**how to solve:**
 
 inspect element or view source code
 
@@ -23,12 +23,16 @@ inspect element or view source code
 
 >  natas1: gtVrDuiDfck831PqWsLEZy5gyDz1clto    
 
-# `natas1`
+- - -
+
+## `natas1`
 
 > http://natas1.natas.labs.overthewire.org/\
 > You can find the password for the next level on this page, but rightclicking has been blocked!  
 
-### Solve
+**how to solve:**
+
+inspect element using shortcut
 
 ```html
 <!--The password for natas2 is ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi -->
@@ -36,11 +40,14 @@ inspect element or view source code
 
 > natas2: ZluruAthQk7Q2MqmDeTiUij2ZvWy2mBi  
 
-## natas2
+- - -
 
+## `natas2`
+
+> There is nothing on this page![](http://natas2.natas.labs.overthewire.org/files/pixel.png)\
 > http://natas2.natas.labs.overthewire.org/  
 
-### Solve
+**how to solve:**
 
 after you try to view the page source (view-source:http://natas2.natas.labs.overthewire.org/)
 
@@ -54,8 +61,6 @@ you see there is a path to image location on the server, you can try to see the 
 
 hmmm,  `users.txt` seems suspicious, you can go to `http://natas2.natas.labs.overthewire.org/files/users.txt` 
 
-![users.txt data](/images/uploads/a1ca5690-a188-4f3d-97c5-4e9590aa542c.png "users.txt data")
-
 ```
 # username:password
 alice:BYNdCesZqW
@@ -68,12 +73,14 @@ mallory:9urtcpzBmH
 
 > natas3: sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14  
 
-## natas3
+- - -
+
+## `natas3`
 
 > No more information leaks!! Not even Google will find it this time...\
 > http://natas3.natas.labs.overthewire.org/  
 
-### Solve
+**how to solve:**
 
 *Not even Google will find* it sounds like he’s telling us about `robots.txt`  http://natas3.natas.labs.overthewire.org/robots.txt ![](CE592C4E-582C-40BE-B4A0-FC3B0E9D4081.png)
 
@@ -86,13 +93,15 @@ check `http://natas3.natas.labs.overthewire.org/s3cr3t/` , it will tell you the 
 
 > natas4: Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ  
 
-## natas4
+- - -
+
+## `natas4`
 
 > Access disallowed. You are visiting from "" while authorized users should come only from http://natas5.natas.labs.overthewire.org/  
 
-### Solve
+**how to solve:**
 
-try to access the website using curl: 
+try to access the website using curl (-u flag specify username:password for curl): 
 
 ```shell
 curl -u natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ http://natas4.natas.labs.overthewire.org/
@@ -111,12 +120,14 @@ curl -u natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ http://natas4.natas.labs.overthe
 
 > natas5: iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq  
 
-## natas5
+- - -
+
+## `natas5`
 
 > Access disallowed. You are not logged in\
 > http://natas5.natas.labs.overthewire.org/  
 
-### Solve
+**how to solve:**
 
 there is no clue after viewing page source and doing inspect element. So what is it? cookie? ![](0CEEB6CF-9F73-4C3B-8A1B-CFA09278693A.png) i have this extension called `EditThisCookie` on chrome so i just have to click the extension and see this cookie, there is key of the cookie `loggedIn` and it set the value to `0` so i just change the value to `1`.
 
@@ -126,11 +137,13 @@ Access granted. The password for natas6 is aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
 
 > natas6: aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1  
 
-## natas6
+- - -
+
+## `natas6`
 
 > http://natas5.natas.labs.overthewire.org/  
 
-### Solve
+**how to solve:**
 
 see the source code:
 
@@ -150,6 +163,8 @@ include "includes/secret.inc";
 we can see there is *include* command that include external file, it seems we can access it directly `http://natas6.natas.labs.overthewire.org/includes/secret.inc` and you get `FOEIUWGHFEEUHOFUOIU` as the correct key.
 
 > natas7: 7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
+
+- - -
 
 ## Next Natas
 

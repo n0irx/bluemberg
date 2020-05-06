@@ -1,5 +1,5 @@
 ---
-title: go + docker + heroku
+title: go docker heroku
 date: 2020-03-07T00:00:00.000Z
 ---
 This tutorial will guide you how to write go, dockerize it, deploy it to heroku.

@@ -24,4 +24,39 @@
     </div>
 </div>
 
+<script>
+var toggle = document.getElementById("dark-mode-toggle");
+var darkTheme = document.getElementById("dark-mode-theme");
+var darkSyntax = document.getElementById("dark-mode-theme-syntax");
+var lightSyntax = document.getElementById("light-mode-theme-syntax");
+
+toggle.addEventListener("click", () => {
+    if (toggle.className === "fa fa-moon-o") {
+        setTheme("dark");
+    } else if (toggle.className === "fa fa-sun-o") {
+        setTheme("light");
+    }
+});
+
+// the default theme is light
+var savedTheme = localStorage.getItem("dark-mode-storage") || "light";
+setTheme(savedTheme);
+
+function setTheme(mode) {
+    localStorage.setItem("dark-mode-storage", mode);
+    if (mode === "dark") {
+        darkTheme.disabled = false;
+        darkSyntax.disabled = false;
+        lightSyntax.disabled = true;
+        toggle.className = "fa fa-sun-o";
+    } else if (mode === "light") {
+        darkTheme.disabled = true;
+        darkSyntax.disabled = true;
+        lightSyntax.disabled = false;
+        toggle.className = "fa fa-moon-o";
+    }
+}
+</script>
+
+
 {{ partial "script.html" . }}
