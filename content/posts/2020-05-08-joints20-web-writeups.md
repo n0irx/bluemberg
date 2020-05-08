@@ -54,21 +54,23 @@ The md5() operation calculates the hash of the value, if the hash computed start
 \
 The hash value of 240610708 is 0e462097431906509019562988736854 and the hash value of QNKCDZO is 0e830400451993494058024219903391 AND THE PHP WILL TREAT THE COMPUTED HASH THAT STARTS WITH 0e  AS A FLOAT, DAMN. 
 
+![](/images/uploads/fdbc4aec-6cba-4c5d-9701-f39d8caf5fa5.png)
+
 > JOINTS20{b4bytyp3ju99lin9*md5*}
 
 ## `Twitter Collection`
 
 this page provides a URL box that we can feel with a link and scrap the image if it succeeds it will send alert:
 
-and it pops up at the bottom of the page, and it stored on the cookie I think? when I flush the cookie, the image disappears, poor waifu.
+![](/images/uploads/21083120-c5f2-4a18-a926-91f239a95acc.png)
+
+and it pops up at the bottom of the page, and it stored on the cookie I think? when I flush the cookie, the image disappears, poor waifu.  
 
 and the important thing that is the image is downloaded locally to the server, mine is here `http://ctf.joints.id:10001/downloads/9eed2d697fb5a3fa35e8d1832471a6a8464d49fe/099a95c45237eaa2243500bf145da79534ec8460.jpg` so can we just upload any file?
 
-I try to use some kind of special character in the URL i tried there is two response one is 
+I try to use some kind of special character in the URL i tried there is two response one is and one is (using `"` and `-`) and bingo, there is  500 internal error:
 
-and one is (using `"` and `-`)
-
-bingo, there is  500 internal error  
+![](/images/uploads/6b17cc87-f0cb-44e6-be17-ddcd2b5fc77f.png)
 
 and the preview of the error said that
 
@@ -109,6 +111,8 @@ rce.php
 
 and viola:
 
+![](/images/uploads/9ed0f832-c9b0-4206-84fd-b5b2e436415a.png)
+
 ```shell
 ❯ curl "http://ctf.joints.id:10001/downloads/3e0766a83b992daee763e4c629190a1a434de474/rce.php"
 <br />
@@ -142,3 +146,5 @@ styles
 
 JOINTS20{ya_benar_ini_benderanya_uwu}JOINTS20{ya_benar_ini_benderanya_uwu}
 ```
+
+![](/images/uploads/14903bb1-cbee-426f-a8d5-74d76db0ca0f.png)
