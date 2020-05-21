@@ -6,6 +6,7 @@ layout: "resume"
 
 ## Work Experiences 💼
 
+![](https://media-exp1.licdn.com/dms/image/C511BAQGblE4L4x6MDQ/company-background_10000/0?e=1589320800&v=beta&t=K6syQ7UjmGV1CXXeCjxu05Y_FrmSM2jqb7-I7B2k_Jg)
 ### • Security Engineer & DevOps Engineer at Pusat Ilmu Komputer (Pusilkom)
 
 *September 2019 - February 2019*
@@ -23,6 +24,7 @@ tech stacks: **Ansible, BurpSuite, ZAP**
 
 ---
 
+![logo bukalapak](https://www.bukalapak.com/images/logo-new/bukalapak-primary-logo@2x.png)
 ### • Software Engineer Intern, Bukalapak
 
 *June 2019 - Agustus 2019*
