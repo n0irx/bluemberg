@@ -1,8 +1,10 @@
 ---
 layout: blog
-title: JOINTS20 Web Writeups
+title: "[writeup] JOINTS20 Web Writeups"
 date: 2020-05-08T18:31:53.905Z
-tags: ["ctf", "writeup"]
+tags:
+  - ctf
+  - writeup
 ---
 JOINTS20 Writeup (WEB)
 

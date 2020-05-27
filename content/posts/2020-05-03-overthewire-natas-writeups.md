@@ -1,8 +1,10 @@
 ---
 layout: blog
-title: "OverTheWire: Natas Writeups"
+title: "[writeup] OverTheWire: Natas Writeups"
 date: 2020-05-03T16:01:13.340Z
-tags: ["ctf", "writeup"]
+tags:
+  - ctf
+  - writeup
 ---
 In this post I will share my writeup in OverTheWire war-games, this writeup will be updated!
 

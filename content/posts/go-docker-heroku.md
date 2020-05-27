@@ -1,7 +1,9 @@
 ---
-title: go docker heroku
+title: "[tutorial] How to Deploy Dockerized Go App on Heroku"
 date: 2020-03-07T00:00:00.000Z
-tags: ["tutorial", "infrastructure"]
+tags:
+  - tutorial
+  - infrastructure
 ---
 This tutorial will guide you how to write go, dockerize it, deploy it to heroku.
 
