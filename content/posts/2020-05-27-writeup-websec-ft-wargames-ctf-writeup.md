@@ -6,6 +6,7 @@ tags:
   - ctf
   - writeup
 ---
+
 CTF writeup of http://websec.fr/ war-games.
 
 <!--more-->
