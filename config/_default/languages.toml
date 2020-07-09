@@ -1,0 +1,9 @@
+[en]
+  title = "nataprawiraf's personal blog"
+  languageName = "English"
+  weight = 1
+
+[ko]
+  title = "nataprawiraf's personal blog"
+  languageName = "한국어"
+  weight = 2
