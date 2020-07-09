@@ -1,5 +1,5 @@
 ---
-title: "[tutorial] How to Deploy Dockerized Go App on Heroku"
+title: "How to Deploy Dockerized Go App on Heroku"
 date: 2020-03-07T00:00:00.000Z
 tags:
   - tutorial

@@ -1,10 +1,9 @@
 ---
 layout: blog
-title: "[writeup] OverTheWire: Natas Writeups"
+title: "OverTheWire: Natas Writeups"
 date: 2020-05-03T16:01:13.340Z
 tags:
-  - ctf
-  - writeup
+  - ctf_writeup
 ---
 
 Overthewire Natas Wargame CTF Writeups
