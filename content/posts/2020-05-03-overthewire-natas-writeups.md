@@ -12,7 +12,7 @@ In this post I will share my writeup in OverTheWire war-games, this writeup will
 
 <!--more-->
 
-## `natas0`
+## natas0
 
 > You can find the password for the next level on this page.
 >
@@ -30,7 +30,7 @@ inspect element or view source code
 
 ---
 
-## `natas1`
+## natas1
 
 > http://natas1.natas.labs.overthewire.org/\
 > You can find the password for the next level on this page, but rightclicking has been blocked!
@@ -80,7 +80,7 @@ mallory:9urtcpzBmH
 
 ---
 
-## `natas3`
+## natas3
 
 > No more information leaks!! Not even Google will find it this time...\
 > http://natas3.natas.labs.overthewire.org/
@@ -100,7 +100,7 @@ check `http://natas3.natas.labs.overthewire.org/s3cr3t/` , it will tell you the 
 
 ---
 
-## `natas4`
+## natas4
 
 > Access disallowed. You are visiting from "" while authorized users should come only from http://natas5.natas.labs.overthewire.org/
 
@@ -144,7 +144,7 @@ Access granted. The password for natas6 is aGoY4q2Dc6MgDq4oL4YtoKtyAg9PeHa1
 
 ---
 
-## `natas6`
+## natas6
 
 > http://natas5.natas.labs.overthewire.org/
 
