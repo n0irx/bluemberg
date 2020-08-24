@@ -2,7 +2,7 @@
 theme = "hugo-theme-codex"
 
 # Override these settings with your own
-title = "codex"
+title = "Bluemberg"
 languageCode = "en-us"
 baseURL = "http://ryfch.com"
 copyright = "© {year}"
@@ -21,7 +21,7 @@ copyright = "© {year}"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://twitter.com/natyourbae"
-  github = "https://github.com/rychloe"
+  github = "https://github.com/neitch"
   email = "mailto:prawira8991@gmail.com"
   gitlab = "https://gitlab.com/natyourbae"
   # facebook = "https://facebook.com/<your handle>"
@@ -66,11 +66,11 @@ copyright = "© {year}"
 [[menu.main]]
   identifier = "resume"
   name = "resume"
-  title = "resume"
+  title = "Resume"
   url = "/resume"
 
 [[menu.main]]
   identifier = "projects"
   name = "projects"
-  title = "projects"
+  title = "Projects"
   url = "/projects"

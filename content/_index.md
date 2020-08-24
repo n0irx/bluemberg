@@ -1,5 +1,4 @@
 ---
 heading: "Bluemberg"
-subheading: "Tech Stories"
-# handle: "hugo-theme-codex"
+subheading: "Personal Website"
 ---
