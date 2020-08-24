@@ -6,17 +6,50 @@ layout: "resume"
 
 ## Work Experiences 💼
 
-![](https://media-exp1.licdn.com/dms/image/C511BAQGblE4L4x6MDQ/company-background_10000/0?e=1589320800&v=beta&t=K6syQ7UjmGV1CXXeCjxu05Y_FrmSM2jqb7-I7B2k_Jg)
-### • Security Engineer & DevOps Engineer at Pusat Ilmu Komputer (Pusilkom)
+### Security Engineer Intern ‐ Dana
 
-*September 2019 - February 2019*
+_27 July 2020 - August 2020_
 
-> Pusat Ilmu Komputer UI atau yang lazim disebut Pusilkom UI telah berdiri sejak tahun 1972. Selama lebih dari 40 tahun, Pusilkom UI telah banyak berkiprah dalam pengembangan dunia teknologi informasi, baik di dunia akademis maupun industri/bisnis.
+> DANA is a TechFin company that aims to bring in inclusive financial services to empower people for a better living. We aim to be one of the Pillar of Digital Economy in Indonesia by enabling the society to transact seamlessly. As a highly secured and scalable payment service platform to connect everyone based on world class technology, our goal is to provide Indonesia with a trustworthy and convenient mobile payment system to cater the needs of our customers, and sustainable profitable business for our stakeholders. .
 
 ### Job Description
 
-- penetration testing
-- reporting security issue security
+- do penetration testing on Mobile App and API
+- report security issue security
+- conduct research on 3rd Party Security Application
+- conduct research on DevSecOps
+
+tech stacks: **Ansible, BurpSuite, ZAP**
+
+---
+
+### Software and Security Architect ‐ Proyekin.id
+
+_27 July 2020 - August 2020_
+
+> DANA is a TechFin company that aims to bring in inclusive financial services to empower people for a better living. We aim to be one of the Pillar of Digital Economy in Indonesia by enabling the society to transact seamlessly. As a highly secured and scalable payment service platform to connect everyone based on world class technology, our goal is to provide Indonesia with a trustworthy and convenient mobile payment system to cater the needs of our customers, and sustainable profitable business for our stakeholders. .
+
+### Job Description
+
+- do penetration testing on Mobile App and API
+- report security issue security
+- conduct research on 3rd Party Security Application
+- conduct research on DevSecOps
+
+tech stacks: **Ansible, BurpSuite, ZAP**
+
+---
+
+### Security Engineer & DevOps Engineer - Pusat Ilmu Komputer (Pusilkom)
+
+_September 2019 - February 2019_
+
+> Pusat Ilmu Komputer Universitas Indonesia (Pusilkom UI) is an academic venture unit under the Faculty of Computer Science, University of Indonesia. Pusilkom UI's mission is to align between the academic world and the industrial world. Pusilkom UI focuses on 4 services in Information Technology, which is Consultancy, Data Processing, Information System Development, and Training.
+
+### Job Description
+
+- do penetration testing
+- report security issue security
 - conduct research in security of a platform
 - create provisioning script for server
 
@@ -24,18 +57,17 @@ tech stacks: **Ansible, BurpSuite, ZAP**
 
 ---
 
-![logo bukalapak](https://www.bukalapak.com/images/logo-new/bukalapak-primary-logo@2x.png)
-### • Software Engineer Intern, Bukalapak
+### Software Engineer Intern - Bukalapak
 
-*June 2019 - Agustus 2019*
+_June 2019 - Agustus 2019_
 
-> Bukalapak merupakan salah satu online marketplace terkemuka di Indonesia yang menyediakan sarana jual-beli dari konsumen ke konsumen. Semua orang dapat membuka toko online di Bukalapak dan melayani pembeli dari seluruh Indonesia untuk transaksi satuan maupun banyak.
+> Bukalapak is one of the leading online marketplaces in Indonesia that provides a means of buying and selling from consumer to consumer. Everyone can open an online shop at Bukalapak and serve buyers from all over Indonesia for single or multiple transactions.
 
 ### Job Description
 
-- develop internal Anti-Fraud API for on Growth Squad
-- migrate existing code form monolith to microservice architecture
- 
+- develop internal API
+- migrate existing code to microservice architecture
+
 tech stacks: **Ruby, Go, MongoDB, MySQL, and Apache Kafka**
 
 ---
