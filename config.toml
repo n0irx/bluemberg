@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Bluemberg"
 languageCode = "en-us"
-baseURL = "http://ryfch.com"
+baseURL = "https://n0irx.fun"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
@@ -21,18 +21,18 @@ copyright = "© {year}"
 
   # Links to your social accounts, comment/uncomment as needed. Icons will be displayed for those specified.
   twitter = "https://twitter.com/natyourbae"
-  github = "https://github.com/neitch"
+  github = "https://github.com/n0irx"
   email = "mailto:prawira8991@gmail.com"
-  gitlab = "https://gitlab.com/natyourbae"
+  gitlab = "https://gitlab.com/n0irx"
+  instagram = "https://instagram.com/nataprawiraf"
+  linkedin = "https://linkedin.com/in/nataprawiraf"
   # facebook = "https://facebook.com/<your handle>"
-  # instagram = "https://instagram.com/<your handle>"
-  # linkedin = "<link to your profile>"
   # youtube = "https://www.youtube.com/channel/<your channel>"
 
   # Titles for your icons (shown as tooltips), and also their display order.
   # Currently, these icons are supported:
   #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
-  iconOrder = ["Twitter", "GitHub", "Email", "GitLab"]
+  iconOrder = ["GitHub", "Email", "LinkedIn", "GitLab", "Twitter"]
 
   # Metadata for Twitter cards, defaults to params.twitter
   # twitterSite = "@<your handle>"
@@ -52,10 +52,16 @@ copyright = "© {year}"
 
 # Controls the navigation
 [[menu.main]]
+  identifier = "home"
+  name = "home"
+  title = "Home"
+  url = "/"
+
+[[menu.main]]
   identifier = "about"
   name = "about"
   title = "About"
-  url = "/"
+  url = "/about"
 
 [[menu.main]]
   identifier = "posts"
