@@ -1,5 +1,5 @@
-baseURL: "https://examplesite.com"
-title: ExampleSite
+baseURL: "https://n0irx.fun"
+title: n0irx.fun
 paginate: 5
 theme: PaperMod
 
@@ -8,7 +8,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: UA-123-45
+# googleAnalytics: UA-123-45
 
 minify:
     disableXML: true
@@ -18,7 +18,7 @@ params:
     profileMode:
         enabled: true
         title: "n0irx.fun" # optional default will be site title
-        subtitle: "Welcome to my personal Site"
+        subtitle: "personal site by Nata"
         # imageUrl: "<image link>" # optional
         # imageTitle: "<title of image as alt>" # optional
         # imageWidth: 120 # custom size

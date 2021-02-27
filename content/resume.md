@@ -55,7 +55,11 @@ tech stacks: **Ruby, Go, MongoDB, MySQL**
 
 ---
 ## Open Source Projects
+### Syphon (open-source project)
+_July 2020_
+> Syphon is a CLI app to save shell commands for later use
 
+[Visit to Contribute!](https://github.com/n0irx/syphon)  
 
 ---
 ## Private/Paid Projects
