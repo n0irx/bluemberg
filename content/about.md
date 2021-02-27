@@ -10,4 +10,4 @@ In this blog, I want to share my experience and knowledge in technology.
 
 I mainly talk about Software Engineering, Cybersecurity and CTF, Computer Architecture and Infrasturcture.
 
-I love coffee ☕, cats 🐱, and Ichigo 🍓
+I love coffee ☕, cats 🐱, and Strawberry 🍓
