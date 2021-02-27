@@ -5,7 +5,15 @@ date: 2020-04-30T05:11:58+07:00
 
 ## Projects
 
-### Mandiri Tunas Finance: Master Packet Calculator
+## Syphon (open-source project)
+
+_July 2020_
+
+> A Cli app to save shell commands for later use
+
+[Visit to Contribute!](https://github.com/n0irx/syphon)  
+
+### Mandiri Tunas Finance: Master Packet Calculator (proprietary software)
 
 _September 2019_
 
@@ -37,7 +45,7 @@ stacks: **Python, Django, PostgreSQL, NginX**
 
 [Visit Website](tokopedia-ai.cs.ui.ac.id)
 
-### Talentnesia
+### Talentnesia 
 
 ![Talentnesia Website](/images/projects/talentnesia.png)
 

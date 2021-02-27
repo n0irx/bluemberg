@@ -1,4 +1,4 @@
 ---
-heading: "Bluemberg"
-subheading: "personal site by n0irx"
+heading: "n0irx.fun"
+subheading: "personal site by Nata"
 ---

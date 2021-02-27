@@ -1,5 +1,5 @@
 # DO NOT REMOVE THIS
-theme = "hugo-theme-codex"
+theme = "PaperMod"
 
 # Override these settings with your own
 title = "Bluemberg"
@@ -56,12 +56,6 @@ copyright = "© {year}"
   name = "home"
   title = "Home"
   url = "/"
-
-[[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
-  url = "/about"
 
 [[menu.main]]
   identifier = "posts"
