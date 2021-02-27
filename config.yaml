@@ -28,8 +28,8 @@ params:
               url: "/posts"
             - name: tags
               url: "/tags"
-            - name: projects
-              url: "/projects"
+            - name: resume
+              url: "/resume"
 
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: "n0irx's Personal Site"
