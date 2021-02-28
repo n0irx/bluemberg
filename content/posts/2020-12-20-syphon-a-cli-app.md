@@ -7,7 +7,7 @@ tags:
   - software
 ---
 
-Do you often feel to manage your shell commands? do you feel using ctrl+r (fuzzyfind command via history is not enough?) rest assured, Syphon got you covered!
+Do you often feel to manage your shell commands? do you feel using ctrll+r (fuzzyfind command via history is not enough?) rest assured, Syphon got you covered!
 
 <!--more-->
 
@@ -15,6 +15,8 @@ Do you often feel to manage your shell commands? do you feel using ctrl+r (fuzzy
 
 What is Syphon?  
 
-> A Cli app to save shell commands for latter use
+> Syphon is A CLI application to save shell commands for later use. Syphon lets you manage your shell command by saving it to the local database, after saving the shell command you can retrieve, update, & execute it via CLI.
 
-I'm developing this CLI app because my problem of remembering all the commands I have to type, previously, I'm just using ctrl+r (fuzzyfind command from terminal) but sometimes it can't do much because I'm also forget how the command was typed
+I'm developing this CLI app because my problem of remembering all the commands I have to type, previously, I'm just using ctrl+r (fuzzyfind command from terminal) but sometimes it can't do much because I'm also forget how the command was typed or I just want to save it and use an alias to find it easily (this is what syphon can do).
+
+This application is open-source, so you can contribute it directly to my repo github.com/n0irx/syphon. I know it's still new and I hope I can get more feedback and contribution.
