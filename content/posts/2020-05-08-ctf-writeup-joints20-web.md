@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "JOINTS20 Web Writeups"
+title: "CTF Writeup: JOINTS20 Web"
 date: 2020-05-08T18:31:53.905Z
 tags:
   - ctf_writeup

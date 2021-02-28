@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "websec.ft wargames CTF Writeup"
+title: "CTF Writeup: websec.ft wargames"
 date: 2020-05-27T18:23:59.297Z
 tags:
   - ctf_writeup
