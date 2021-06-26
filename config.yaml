@@ -1,6 +1,6 @@
 baseURL: "https://n0irx.fun"
 title: n0irx.fun
-paginate: 5
+paginate: 30
 theme: PaperMod
 
 enableRobotsTXT: true
